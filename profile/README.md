@@ -1,6 +1,6 @@
 # ☄️ From Ms.MR to Earth: Greetings, earthling!
 
-<img src="banner.gif" alt="MR Banner">
+<img src="https://raw.githubusercontent.com/MsMaryamRezaee/.github/main/profile/banner.gif" alt="MR Banner">
 
 You've found the official "brand" page for Maryam Rezaee. This organization acts as a central "hub" or "publisher" for my larger, more established projects. Think of it as the studio behind the work, while my personal profile is the lab.
 
