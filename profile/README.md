@@ -26,7 +26,7 @@ The primary project hosted in this organization is my personal portfolio:
 ---
 
 ## 📫 Get In Touch
-For collaboration, questions, or discussions about AI and cognition, the best place to reach me is through my main profile or the links below:
+For collaboration or discussions about AI and cognition, the best place to reach me is through my main profile or the links below:
 
 * **Email:** [ms.maryamrezaee@gmail.com](mailto:ms.maryamrezaee@gmail.com)
 * **Telegram:** [@msmrexe](https://t.me/msmrexe)
