@@ -1,6 +1,6 @@
 # ☄️ From Ms.MR to Earth: Greetings, earthling!
 
-<a href="https://msmaryamrezaee.github.io">
+<a href="https://msmaryamrezaee.github.io" target="_blank">
   <img src="https://raw.githubusercontent.com/MsMaryamRezaee/.github/main/profile/banner.gif" alt="MR Banner">
 </a>
 
