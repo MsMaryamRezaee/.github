@@ -21,7 +21,7 @@ For all my research, university projects, code-dumps, and day-to-day activity, p
 The primary project hosted in this organization is my personal portfolio:
 
 * **Visit the Live Site:** **[maryamrezaee.me](https://maryamrezaee.me)**
-* **See the Code:** **[github.com/MsMaryamRezaee/maryamrezaee.me](https://github.com/MsMaryamRezaee/maryamrezaee.me)**
+* **See the Code:** **[github.com/MsMaryamRezaee/msmaryamrezaee.github.io](https://github.com/MsMaryamRezaee/msmaryamrezaee.github.io)**
 
 ---
 
