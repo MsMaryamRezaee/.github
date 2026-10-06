@@ -1,6 +1,6 @@
 # ☄️ From Ms.MR to Earth: Greetings, earthling!
 
-<a href="https://msmaryamrezaee.github.io" target="_blank">
+<a href="https://maryamrezaee.me" target="_blank">
   <img src="https://raw.githubusercontent.com/MsMaryamRezaee/.github/main/profile/banner.gif" alt="MR Banner">
 </a>
 
@@ -20,8 +20,8 @@ For all my research, university projects, code-dumps, and day-to-day activity, p
 ### 2. My Portfolio Website
 The primary project hosted in this organization is my personal portfolio:
 
-* **Visit the Live Site:** **[msmaryamrezaee.github.io](https://msmaryamrezaee.github.io)**
-* **See the Code:** **[github.com/MsMaryamRezaee/msmaryamrezaee.github.io](https://github.com/MsMaryamRezaee/msmaryamrezaee.github.io)**
+* **Visit the Live Site:** **[maryamrezaee.me](https://maryamrezaee.me)**
+* **See the Code:** **[github.com/MsMaryamRezaee/maryamrezaee.me](https://github.com/MsMaryamRezaee/maryamrezaee.me)**
 
 ---
 
